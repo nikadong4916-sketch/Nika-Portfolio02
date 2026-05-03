@@ -1,6 +1,6 @@
 import { useParams, Link } from "react-router-dom";
 import { motion } from "motion/react";
-import { projects } from "../portfolio-config";
+import { projects } from "../data";
 import { ArrowLeft, ExternalLink, Calendar, Tag } from "lucide-react";
 
 export default function ProjectDetail() {

@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { Link } from "react-router-dom";
-import { Project } from "../portfolio-config";
+import { Project } from "../data";
 import { ArrowUpRight } from "lucide-react";
 
 interface ProjectCardProps {

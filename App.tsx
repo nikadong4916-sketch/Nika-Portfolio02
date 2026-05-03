@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import Home from "./Home";
 import ProjectDetail from "./ProjectDetail";
-import Navbar from "./components/Navbar";
+import Navbar from "./Navbar";
 
 function ScrollToTop() {
   const { pathname } = useLocation();

@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from "react-route
 import { useEffect } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import Home from "./Home";
-import ProjectDetail from "./pages/ProjectDetail";
+import ProjectDetail from "./ProjectDetail";
 import Navbar from "./components/Navbar";
 
 function ScrollToTop() {

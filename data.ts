@@ -53,7 +53,7 @@ export const projects: Project[] = [
     gallery: [
       "/images/project-02-detail-01.png",
       "/images/project-02-detail-02.png",
-      "/images/project-02-detail-03.pngg"
+      "/images/project-02-detail-03.png"
     ],
     tags: ["Product Design", "AI", "System"],
     year: "2025.06-2025.12"
@@ -67,7 +67,7 @@ export const projects: Project[] = [
     gallery: [
       "/images/project-03-detail-01.png",
       "/images/project-03-detail-02.png",
-      "/images/project-03-detail-03.pngg"
+      "/images/project-03-detail-03.png"
     ],
     tags: ["Audio", "AI", "React"],
     year: "2026.01-2026.06"
